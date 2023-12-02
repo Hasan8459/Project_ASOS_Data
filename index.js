@@ -1,4 +1,4 @@
-const jsonServer = Require("json-server")   //Importing json-server library
+const jsonServer = require.("json-server")   //Importing json-server library
 const server = jsonServer.create()
 const router = jsonServer.router("db.json")
 const middlewares = jsonServer.default()
