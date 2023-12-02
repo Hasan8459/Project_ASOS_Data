@@ -1,0 +1,378 @@
+{
+    "join": [
+      {
+        "firstName": "babanrao",
+        "lastName": "Patil",
+        "email": "eve.holt@reqres.in",
+        "password": "345678",
+        "date": "2023-11-23",
+        "clothType": "Men",
+        "discount": "true",
+        "id": 2
+      },
+      {
+        "firstName": "babanrao",
+        "lastName": "Patil",
+        "email": "eve.holt@reqres.in",
+        "password": "123321123321",
+        "date": "2023-11-21",
+        "clothType": "Men",
+        "discount": "true",
+        "id": 3
+      }
+    ],
+    "cart": [
+     
+    
+    ],
+    "favourite": [
+     
+    ],
+    "mendata": [
+      {
+        "id": 1,
+        "title": "ASOS DESIGN oversized scuba jacket in navy",
+        "poster": "https://images.asos-media.com/products/asos-design-oversized-scuba-jacket-in-navy/205342907-2?$n_480w$&wid=476&fit=constrain",
+        "price": 36,
+        "color": "Black"
+      },
+      {
+        "id": 2,
+        "title": "ASOS 4505 running shorts in textured fabric in black",
+        "poster": "https://images.asos-media.com/products/asos-4505-running-shorts-in-textured-fabric-in-black/205294193-2?$n_480w$&wid=476&fit=constrain",
+        "price": 19,
+        "color": "Gray"
+      },
+      {
+        "id": 3,
+        "title": "ASOS DESIGN relaxed satin shirt in panther animal print",
+        "poster": "https://images.asos-media.com/products/asos-design-relaxed-satin-shirt-in-panther-animal-print/204954181-2?$n_480w$&wid=476&fit=constrain",
+        "price": 32,
+        "color": "BlckWhite"
+      },
+      {
+        "id": 4,
+        "title": "ASOS DESIGN oversized half zip funnel neck sweatshirt with contrast",
+        "poster": "https://images.asos-media.com/products/asos-design-oversized-half-zip-funnel-neck-sweatshirt-with-contrast-stitch-in-soft-white/205448337-2?$n_480w$&wid=476&fit=constrain",
+        "price": 28,
+        "color": "White"
+      },
+      {
+        "id": 5,
+        "title": "ASOS DESIGN oversized sweatshirt with spine print in navy",
+        "poster": "https://images.asos-media.com/products/asos-design-oversized-sweatshirt-with-spine-print-in-navy/205367323-2?$n_480w$&wid=476&fit=constrain",
+        "price": 24,
+        "color": "Blue"
+      },
+      {
+        "id": 6,
+        "title": "ASOS DESIGN oversized crew neck sweatshirt in white marl",
+        "poster": "https://images.asos-media.com/products/asos-design-oversized-crew-neck-sweatshirt-in-white-marl/205366431-2?$n_480w$&wid=476&fit=constrain",
+        "price": 21,
+        "color": "White"
+      },
+      {
+        "id": 7,
+        "title": "Reclaimed Vintage genderless shrunken long sleeve mesh top in grey",
+        "poster": "https://images.asos-media.com/products/reclaimed-vintage-genderless-shrunken-long-sleeve-mesh-top-in-grey/205547281-2?$n_480w$&wid=476&fit=constrain",
+        "price": 24.99,
+        "color": "Gray"
+      },
+      {
+        "id": 8,
+        "title": "ASOS DESIGN long sleeve t-shirt with crew neck in khaki",
+        "poster": "https://images.asos-media.com/products/asos-design-long-sleeve-t-shirt-with-crew-neck-in-khaki/205333862-2?$n_480w$&wid=476&fit=constrain",
+        "price": 10.5,
+        "color": "Blakish"
+      },
+      {
+        "id": 9,
+        "title": "The North Face Redbox Celebration 2 back print t-shirt in sage green",
+        "poster": "https://images.asos-media.com/products/the-north-face-redbox-celebration-2-back-print-t-shirt-in-sage-green-exclusive-at-asos/205384491-2?$n_480w$&wid=476&fit=constrain",
+        "price": 35,
+        "color": "Light Dark"
+      },
+      {
+        "id": 10,
+        "title": "ASOS DESIGN standard zip through texture jacket in black",
+        "poster": "https://images.asos-media.com/products/asos-design-standard-zip-through-texture-jacket-in-black/205328430-2?$n_480w$&wid=476&fit=constrain",
+        "price": 36,
+        "color": "Black"
+      },
+      {
+        "id": 11,
+        "title": "Cotton:On relaxed puffer jacket in khaki",
+        "poster": "https://images.asos-media.com/products/cottonon-relaxed-puffer-jacket-in-khaki/205320960-2?$n_480w$&wid=476&fit=constrain",
+        "price": 53,
+        "color": "violet"
+      },
+      {
+        "id": 12,
+        "title": "ASOS DESIGN oversized harrington smart jacket in washed black",
+        "poster": "https://images.asos-media.com/products/asos-design-oversized-harrington-smart-jacket-in-washed-black/205155105-2?$n_480w$&wid=476&fit=constrain",
+        "price": 32,
+        "color": "Black"
+      },
+      {
+        "id": 13,
+        "title": "ASOS DESIGN wide smart trouser in purple",
+        "poster": "https://images.asos-media.com/products/asos-design-wide-smart-trouser-in-purple/205232092-2?$n_480w$&wid=476&fit=constrain",
+        "price": 34,
+        "color": "Purple"
+      },
+      {
+        "id": 14,
+        "title": "ASOS DESIGN tapered smart trouser in navy",
+        "poster": "https://images.asos-media.com/products/asos-design-tapered-smart-trouser-in-navy/205206754-2?$n_480w$&wid=476&fit=constrain",
+        "price": 30,
+        "color": "White"
+      },
+      {
+        "id": 15,
+        "title": "ASOS DESIGN relaxed pull on trouser in brown with elasticated waist",
+        "poster": "https://images.asos-media.com/products/asos-design-relaxed-pull-on-trouser-in-brown-with-elasticated-waist/205108019-2?$n_480w$&wid=476&fit=constrain",
+        "price": 32,
+        "color": "Brown"
+      },
+      {
+        "id": 16,
+        "title": "ASOS 4505 longline 10 inch shorts in mesh fabric in black",
+        "poster": "https://images.asos-media.com/products/asos-4505-longline-10-inch-shorts-in-mesh-fabric-in-black/205292869-2?$n_480w$&wid=476&fit=constrain",
+        "price": 17,
+        "color": "Black"
+      },
+      {
+        "id": 17,
+        "title": "ASOS DESIGN slim suit in navy floral print",
+        "poster": "https://images.asos-media.com/products/asos-design-slim-suit-jacket-in-navy-floral-print/205062485-1-navy?$n_480w$&wid=476&fit=constrain",
+        "price": 127,
+        "color": "Floral"
+      },
+      {
+        "id": 18,
+        "title": "ASOS DESIGN classic rigid chino in washed khaki",
+        "poster": "https://images.asos-media.com/products/asos-design-classic-rigid-chino-in-washed-khaki/205107954-2?$n_480w$&wid=476&fit=constrain",
+        "price": 27,
+        "color": "White"
+      },
+      {
+        "id": 19,
+        "title": "ASOS DESIGN slim washed chino in khaki",
+        "poster": "https://images.asos-media.com/products/asos-design-slim-washed-chino-in-khaki/205107648-2?$n_480w$&wid=476&fit=constrain",
+        "price": 27,
+        "color": "Gray"
+      },
+      {
+        "id": 20,
+        "title": "ASOS DESIGN straight ripstop trousers in green",
+        "poster": "https://images.asos-media.com/products/asos-design-straight-ripstop-trousers-in-green/205107630-2?$n_480w$&wid=476&fit=constrain",
+        "price": 32,
+        "color": "Green"
+      },
+      {
+        "id": 21,
+        "title": "Reclaimed Vintage long sleeve cord shirt in khaki",
+        "poster": "https://images.asos-media.com/products/reclaimed-vintage-long-sleeve-cord-shirt-in-khaki/204932458-2?$n_480w$&wid=476&fit=constrain",
+        "price": 29,
+        "color": "Green"
+      }
+    ],
+    "womendata": [
+      {
+        "id": 1,
+        "title": "ASOS DESIGN knitted cable mini dress with open collar in orange",
+        "poster": "https://images.asos-media.com/products/asos-design-knitted-cable-mini-dress-with-open-collar-in-orange/202222922-2?$n_480w$&wid=476&fit=constrain",
+        "price": 37,
+        "color": "Orange"
+      },
+      {
+        "id": 2,
+        "title": "Pull&Bear ribbed midaxi skirt in black",
+        "poster": "https://images.asos-media.com/products/pullbear-ribbed-midaxi-skirt-in-black/204404382-2?$n_480w$&wid=476&fit=constrain",
+        "price": 22,
+        "color": "Black"
+      },
+      {
+        "id": 3,
+        "title": "ASOS DESIGN super soft oversized jumper with pocket detail in warm",
+        "poster": "https://images.asos-media.com/products/asos-design-super-soft-oversized-jumper-with-pocket-detail-in-warm-cream/202818647-2?$n_480w$&wid=476&fit=constrain",
+        "price": 28,
+        "color": "Blue"
+      },
+      {
+        "id": 4,
+        "title": "Miss Selfridge frill knitted dress in ivory",
+        "poster": "https://images.asos-media.com/products/miss-selfridge-frill-knitted-dress-in-ivory/202295407-2?$n_480w$&wid=476&fit=constrain",
+        "price": 35,
+        "color": "White"
+      },
+      {
+        "id": 5,
+        "title": "ASOS DESIGN knitted maxi jumper dress in cable in blue",
+        "poster": "https://images.asos-media.com/products/asos-design-knitted-maxi-jumper-dress-in-cable-in-blue/203348294-2?$n_480w$&wid=476&fit=constrain",
+        "price": 42,
+        "color": "Blue"
+      },
+      {
+        "id": 6,
+        "title": "River Island hybrid jumper shirt dress in chocolate",
+        "poster": "https://images.asos-media.com/products/river-island-hybrid-jumper-shirt-dress-in-chocolate/204321435-2?$n_480w$&wid=476&fit=constrain",
+        "price": 50,
+        "color": "Black"
+      },
+      {
+        "id": 7,
+        "title": "Monki brushed fur double breasted coat in brown",
+        "poster": "https://images.asos-media.com/products/monki-brushed-fur-double-breasted-coat-in-brown/203783925-2?$n_480w$&wid=476&fit=constrain",
+        "price": 69,
+        "color": "Brown"
+      },
+      {
+        "id": 8,
+        "title": "Weekday Promis padded jacket in black",
+        "poster": "https://images.asos-media.com/products/weekday-promis-padded-jacket-in-black/203806884-2?$n_480w$&wid=476&fit=constrain",
+        "price": 60,
+        "color": "Black"
+      },
+      {
+        "id": 9,
+        "title": "Monki padded jacket in dark black",
+        "poster": "https://images.asos-media.com/products/monki-padded-jacket-in-dark-black/204037465-2?$n_480w$&wid=476&fit=constrain",
+        "price": 42,
+        "color": "Dark-Black"
+      },
+      {
+        "id": 10,
+        "title": "Daisy Street oversized zip hoodie in washed black",
+        "poster": "https://images.asos-media.com/products/daisy-street-oversized-zip-hoodie-in-washed-black/203578092-2?$n_480w$&wid=476&fit=constrain",
+        "price": 24,
+        "color": "Black"
+      },
+      {
+        "id": 11,
+        "title": "ASOS 4505 Curve Icon training hoodie in loopback jersey co ord",
+        "poster": "https://images.asos-media.com/products/asos-4505-curve-icon-training-hoodie-in-loopback-jersey-co-ord/203007633-2?$n_480w$&wid=476&fit=constrain",
+        "price": 24,
+        "color": "White"
+      },
+      {
+        "id": 12,
+        "title": "Topshop borg quarter zip fleece hoodie in ecru",
+        "poster": "https://images.asos-media.com/products/topshop-borg-quarter-zip-fleece-hoodie-in-ecru/204285277-2?$n_480w$&wid=476&fit=constrain",
+        "price": 42,
+        "color": "Black"
+      },
+      {
+        "id": 13,
+        "title": "Topshop Mom jeans in washed black",
+        "poster": "https://images.asos-media.com/products/topshop-mom-jeans-in-washed-black/200841028-2?$n_480w$&wid=476&fit=constrain",
+        "price": 49,
+        "color": "Black"
+      },
+      {
+        "id": 14,
+        "title": "NA-KD cotton straight leg jean in light blue - LBLUE",
+        "poster": "https://images.asos-media.com/products/na-kd-cotton-straight-leg-jean-in-light-blue-lblue/200715290-2?$n_480w$&wid=476&fit=constrain",
+        "price": 35,
+        "color": "Blue"
+      },
+      {
+        "id": 15,
+        "title": "Noisy May Petite Katy mom jeans in dark blue wash",
+        "poster": "https://images.asos-media.com/products/noisy-may-petite-katy-mom-jeans-in-dark-blue-wash/201237902-2?$n_480w$&wid=476&fit=constrain",
+        "price": 32,
+        "color": "Blue"
+      },
+      {
+        "id": 16,
+        "title": "ASOS DESIGN Curve long sleeve striped t-shirt in navy",
+        "poster": "https://images.asos-media.com/products/asos-design-curve-long-sleeve-striped-t-shirt-in-navy/201937594-2?$n_480w$&wid=476&fit=constrain",
+        "price": 15,
+        "color": "BlackWhite"
+      },
+      {
+        "id": 17,
+        "title": "JDY roll neck top in chocolate",
+        "poster": "https://images.asos-media.com/products/jdy-roll-neck-top-in-chocolate/202882345-2?$n_480w$&wid=476&fit=constrain",
+        "price": 13,
+        "color": "Choco"
+      },
+      {
+        "id": 18,
+        "title": "ASOS DESIGN Curve ultimate slim fit t-shirt with long sleeve in white",
+        "poster": "https://images.asos-media.com/products/asos-design-curve-ultimate-slim-fit-t-shirt-with-long-sleeve-in-white/201329560-2?$n_480w$&wid=476&fit=constrain",
+        "price": 15,
+        "color": "White"
+      },
+      {
+        "id": 19,
+        "title": "Stradivarius denim midi skirt with front split in midwash blue",
+        "poster": "https://images.asos-media.com/products/stradivarius-denim-midi-skirt-with-front-split-in-midwash-blue/204805949-2?$n_480w$&wid=476&fit=constrain",
+        "price": 32,
+        "color": "Blue"
+      },
+      {
+        "id": 20,
+        "title": "Stradivarius denim midi skirt with front split in black",
+        "poster": "https://images.asos-media.com/products/stradivarius-denim-midi-skirt-with-front-split-in-black/204805979-2?$n_480w$&wid=476&fit=constrain",
+        "price": 32,
+        "color": "Black"
+      },
+      {
+        "id": 21,
+        "title": "ASOS DESIGN column maxi skirt in black",
+        "poster": "https://images.asos-media.com/products/asos-design-column-maxi-skirt-in-black/204650717-2?$n_480w$&wid=476&fit=constrain",
+        "price": 15,
+        "color": "Black"
+      },
+      {
+        "id": 22,
+        "title": "ASOS DESIGN Curve oversized shirt in black dobby",
+        "poster": "https://images.asos-media.com/products/asos-design-curve-oversized-shirt-in-black-dobby/200912618-2?$n_480w$&wid=476&fit=constrain",
+        "price": 23,
+        "color": "Black"
+      },
+      {
+        "id": 23,
+        "title": "ASOS DESIGN oversized shirt with wide cuff detail in black",
+        "poster": "https://images.asos-media.com/products/asos-design-oversized-shirt-with-wide-cuff-detail-in-black/202934642-2?$n_480w$&wid=476&fit=constrain",
+        "price": 32,
+        "color": "Black"
+      },
+      {
+        "id": 24,
+        "title": "New Look button through shirt in white",
+        "poster": "https://images.asos-media.com/products/new-look-button-through-shirt-in-white/203868132-2?$n_480w$&wid=476&fit=constrain",
+        "price": 15,
+        "color": "White"
+      },
+      {
+        "id": 25,
+        "title": "ASOS DESIGN Curve lounge mix & match star bleached borg sweat in",
+        "poster": "https://images.asos-media.com/products/asos-design-curve-lounge-mix-match-star-bleached-borg-sweat-in-blue/203043751-2?$n_480w$&wid=476&fit=constrain",
+        "price": 27,
+        "color": ""
+      },
+      {
+        "id": 26,
+        "title": "Vero Moda Tall tapered trousers in black",
+        "poster": "https://images.asos-media.com/products/vero-moda-tall-tapered-trousers-in-black/201614634-2?$n_480w$&wid=476&fit=constrain",
+        "price": 37,
+        "color": "Black"
+      },
+      {
+        "id": 27,
+        "title": "Vero Moda Brenda straight leg jeans in cream",
+        "poster": "https://images.asos-media.com/products/vero-moda-brenda-straight-leg-jeans-in-cream/202241880-2?$n_480w$&wid=476&fit=constrain",
+        "price": 38,
+        "color": "Cream"
+      },
+      {
+        "id": 28,
+        "title": "Weekday Voyage high straight jeans in harper blue - MBLUE",
+        "poster": "https://images.asos-media.com/products/weekday-voyage-high-straight-jeans-in-harper-blue-mblue/202053207-2?$n_480w$&wid=476&fit=constrain",
+        "price": 29,
+        "color": "MBlue"
+      }
+    ]
+}
